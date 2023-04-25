@@ -22,6 +22,30 @@ Procesamiento CGI: Modulo encargado de la generacion de la imagen grafica y expo
 
 # Como colaborar
 
+1. Crea una cuenta en GitHub si aún no tienes una.
+
+2. Busca el repositorio al que te gustaría contribuir.
+
+3. Haz un fork del repositorio original en tu propia cuenta de GitHub haciendo clic en el botón "Fork" en la página del repositorio original.
+
+4. Clona tu fork del repositorio en tu máquina local utilizando el comando `git clone`.
+
+5. Crea una nueva rama (`git checkout -b <nombre-de-tu-rama>`) para trabajar en tus cambios.
+
+6. Haz los cambios que desees en tu rama local.
+
+7. Una vez que hayas terminado de hacer tus cambios, haz un commit con tus cambios (`git add <tus-archivos-cambiados>`, `git commit -m "mensaje-descriptivo"`).
+
+8. Sube tu rama a tu fork en GitHub (`git push origin <nombre-de-tu-rama>`).
+
+9. Desde la página de tu fork en GitHub, crea una nueva Pull Request (PR) hacia el repositorio original.
+
+10. Describe tus cambios en la PR y espera a que el dueño del repositorio original revise y acepte tus cambios.
+
+11. Si hay comentarios o sugerencias, haz los cambios necesarios en tu rama local, haz un nuevo commit y sube la rama de nuevo a tu fork en GitHub.
+
+12. Continúa iterando en los pasos 10 y 11 hasta que tus cambios sean aceptados y se fusionen en el repositorio original.
+
 
 # Utilidad de la inteligencia artificial
 La inteligencia artificial (IA) tiene una amplia variedad de aplicaciones y utilidades en muchos campos, como por ejemplo:
